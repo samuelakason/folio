@@ -277,7 +277,6 @@
 					</div>
 				</div>
 			</div>
-
 			<section class="colorlib-skills" data-section="skills">
 				<div class="colorlib-narrow-content">
 					<div class="row">
@@ -292,9 +291,9 @@
 						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="progress-wrap">
-								<h3>CSS</h3>
+								<h3>HTML/CSS</h3>
 								<div class="progress">
-								 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="75"
+								 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="45"
 								  	aria-valuemin="0" aria-valuemax="100" style="width:45%">
 								    <span>45%</span>
 								  	</div>
@@ -303,9 +302,9 @@
 						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="progress-wrap">
-								<h3>HTML2</h3>
+								<h3>Analytical skills</h3>
 								<div class="progress">
-								 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="60"
+								 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="60"
 								  	aria-valuemin="0" aria-valuemax="100" style="width:75%">
 								    <span>75%</span>
 								  	</div>
@@ -314,20 +313,20 @@
 						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="progress-wrap">
-								<h3>Html</h3>
+								<h3>PHP</h3>
 								<div class="progress">
 								 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="85"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:55%">
-								    <span>55%</span>
+								  	aria-valuemin="0" aria-valuemax="100" style="width:65%">
+								    <span>65%</span>
 								  	</div>
 								</div>
 							</div>
 						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="progress-wrap">
-								<h3>CSS3</h3>
+								<h3>Interpersonal skills</h3>
 								<div class="progress">
-								 	<div class="progress-bar color-4" role="progressbar" aria-valuenow="90"
+								 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="90"
 								  	aria-valuemin="0" aria-valuemax="100" style="width:90%">
 								    <span>90%</span>
 								  	</div>
@@ -336,20 +335,42 @@
 						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="progress-wrap">
-								<h3>PHP</h3>
+								<h3>Graphic Design Using Canva</h3>
 								<div class="progress">
-								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="70"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:70%">
-								    <span>70%</span>
+								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="90"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:90%">
+								    <span>90%</span>
 								  	</div>
 								</div>
 							</div>
 						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="progress-wrap">
-								<h3>SEO</h3>
+								<h3>SEO1</h3>
 								<div class="progress">
-								 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
+								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="80"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
+								    <span>80%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>SEO2</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="80"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
+								    <span>80%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>SEO3</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="80"
 								  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
 								    <span>80%</span>
 								  	</div>
@@ -373,9 +394,10 @@
 							<div class="fancy-collapse-panel">
 								<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 									<div class="panel panel-default">
+
 									    <div class="panel-heading" role="tab" id="headingOne">
 									        <h4 class="panel-title">
-									            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Master Degree Graphic Design
+									            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Harvard CS50's Introduction to Computer Science
 									            </a>
 									        </h4>
 									    </div>
@@ -392,10 +414,11 @@
 									         </div>
 									    </div>
 									</div>
+
 									<div class="panel panel-default">
 									    <div class="panel-heading" role="tab" id="headingTwo">
 									        <h4 class="panel-title">
-									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Bachelor Degree of Computer Science
+									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Bachelor of Mathematics, 2018
 									            </a>
 									        </h4>
 									    </div>
@@ -409,7 +432,8 @@
 									        </div>
 									    </div>
 									</div>
-									<div class="panel panel-default">
+									
+									<!-- <div class="panel panel-default">
 									    <div class="panel-heading" role="tab" id="headingThree">
 									        <h4 class="panel-title">
 									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Diploma in Information Technology
@@ -435,7 +459,7 @@
 									            <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>	
 									        </div>
 									    </div>
-									</div>
+									</div> -->
 
 									<div class="panel panel-default">
 									    <div class="panel-heading" role="tab" id="headingFive">
