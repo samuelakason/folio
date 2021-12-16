@@ -577,7 +577,7 @@
 					</div>
 					<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
 						<div class="col-md-12">
-							<p class="work-menu"><span><a href="#" class="active">Graphic Design</a></span> <span><a href="#">Web Design</a></span> <span><a href="#">Software</a></span> <span><a href="#">Apps</a></span></p>
+							<p class="work-menu"><span><a href="#" class="active">Web Apps</a></span> <span><a href="#">Graphic Design</a></span> <span><a href="#">Software</a></span> <span><a href="#">Apps</a></span></p>
 						</div>
 					</div>
 					<div class="row">
@@ -591,6 +591,7 @@
 											<span><a href="#"><i class="icon-share3"></i></a></span>
 											<span><a href="#"><i class="icon-eye"></i> 100</a></span>
 											<span><a href="#"><i class="icon-heart"></i> 49</a></span>
+											<span><a href="#"><i class="icon-open"></i> 49</a></span>
 										</p>
 									</div>
 								</div>
