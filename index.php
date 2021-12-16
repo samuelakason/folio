@@ -23,6 +23,7 @@
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 	<link rel="shortcut icon" type="image/png" href="images\php.png">
 
+
 	<link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
 	
@@ -57,8 +58,8 @@
 		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
 			<div class="text-center">
 				<div class="author-img" style="background-image: url(images/about.jpg);"></div>
-				<h1 id="colorlib-logo"><a href="index.html">Jackson Ford</a></h1>
-				<span class="position"><a href="#">UI/UX/Designer</a> in Philippines</span>
+				<h1 id="colorlib-logo"><a href="index.php">Samuel Akason</a></h1>
+				<span class="position"><a href="">Web </a>Developer</span>
 			</div>
 			<nav id="colorlib-main-menu" role="navigation" class="navbar">
 				<div id="navbar" class="collapse">
@@ -75,19 +76,6 @@
 					</ul>
 				</div>
 			</nav>
-
-			<div class="colorlib-footer">
-				<p><small>&copy; <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright <script>document.write(new Date().getFullYear());</script> All rights reserved. Made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> </span> <span>Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a></span> <span>Demo Images: <a href="https://unsplash.com/" target="_blank">Unsplash.com</a></span></small></p>
-				<ul>
-					<li><a href="#"><i class="icon-facebook2"></i></a></li>
-					<li><a href="#"><i class="icon-twitter2"></i></a></li>
-					<li><a href="#"><i class="icon-instagram"></i></a></li>
-					<li><a href="#"><i class="icon-linkedin2"></i></a></li>
-				</ul>
-			</div>
-
 		</aside>
 
 		<div id="colorlib-main">
@@ -101,9 +89,8 @@ Copyright <script>document.write(new Date().getFullYear());</script> All rights 
 					   			<div class="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
 					   				<div class="slider-text-inner js-fullheight">
 					   					<div class="desc">
-						   					<h1>Hi! <br>I'm Jackson</h1>
-						   					<h2>100% html5 bootstrap templates Made by <a href="https://colorlib.com/" target="_blank">colorlib.com</a></h2>
-												<p><a class="btn btn-primary btn-learn">Download CV <i class="icon-download4"></i></a></p>
+						   					<h1>Hi! <br>I'm Samuel</h1>
+						   					<p><a class="btn btn-primary btn-learn">Download CV <i class="icon-download4"></i></a></p>
 											</div>
 					   				</div>
 					   			</div>
@@ -117,8 +104,7 @@ Copyright <script>document.write(new Date().getFullYear());</script> All rights 
 					   			<div class="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
 					   				<div class="slider-text-inner">
 					   					<div class="desc">
-						   					<h1>I am <br>a Designer</h1>
-												<h2>100% html5 bootstrap templates Made by <a href="https://colorlib.com/" target="_blank">colorlib.com</a></h2>
+						   					<h1>I'm a <br> Web Developer</h1>
 												<p><a class="btn btn-primary btn-learn">View Portfolio <i class="icon-briefcase3"></i></a></p>
 											</div>
 					   				</div>
@@ -137,24 +123,30 @@ Copyright <script>document.write(new Date().getFullYear());</script> All rights 
 							<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
 								<div class="col-md-12">
 									<div class="about-desc">
-										<span class="heading-meta">About Us</span>
+										<span class="heading-meta">About Me</span>
 										<h2 class="colorlib-heading">Who Am I?</h2>
-										<p><strong>Hi I'm Jackson Ford</strong> On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country.</p>
-										<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+										<p><strong>Hi I'm Samuel Akason</strong> a web developer with a passion for making web applications come to life one line of code at a time.</p>
+										<p>.</p>
 									</div>
 								</div>
 							</div>
 							<div class="row">
+							<div class="col-md-3 animate-box" data-animate-effect="fadeInRight">
+									<div class="services color-2">
+										<span class="icon2"><i class="icon-code"></i></span>
+										<h5>Web Development</h5>
+									</div>
+								</div>
 								<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
 									<div class="services color-1">
-										<span class="icon2"><i class="icon-bulb"></i></span>
+										<span class="icon2"><i class="icon-brush"></i></span>
 										<h3>Graphic Design</h3>
 									</div>
 								</div>
-								<div class="col-md-3 animate-box" data-animate-effect="fadeInRight">
-									<div class="services color-2">
-										<span class="icon2"><i class="icon-globe-outline"></i></span>
-										<h3>Web Design</h3>
+								<div class="col-md-3 animate-box" data-animate-effect="fadeInTop">
+									<div class="services color-3">
+										<span class="icon2"><i class="icon-wordpress"></i></span>
+										<h3>WordPress</h3>
 									</div>
 								</div>
 								<div class="col-md-3 animate-box" data-animate-effect="fadeInTop">
@@ -163,17 +155,11 @@ Copyright <script>document.write(new Date().getFullYear());</script> All rights 
 										<h3>Software</h3>
 									</div>
 								</div>
-								<div class="col-md-3 animate-box" data-animate-effect="fadeInBottom">
-									<div class="services color-4">
-										<span class="icon2"><i class="icon-phone3"></i></span>
-										<h3>Application</h3>
-									</div>
-								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
 									<div class="hire">
-										<h2>I am happy to know you <br>that 300+ projects done sucessfully!</h2>
+										<h2>I am happy to let you know<br>that 20+ projects have been done sucessfully!</h2>
 										<a href="#" class="btn-hire">Hire me</a>
 									</div>
 								</div>
@@ -195,18 +181,40 @@ Copyright <script>document.write(new Date().getFullYear());</script> All rights 
 					</div>
 					<div class="row row-pt-md">
 						<div class="col-md-4 text-center animate-box">
+								<div class="services color-6">
+									<span class="icon">
+										<i class="icon-code"></i>
+									</span>
+									<div class="desc">
+										<h3>Web Development</h3>
+										<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+									</div>
+								</div>
+							</div>
+						<div class="col-md-4 text-center animate-box">
 							<div class="services color-1">
 								<span class="icon">
-									<i class="icon-bulb"></i>
+									<i class="icon-brush"></i>
 								</span>
 								<div class="desc">
-									<h3>Innovative Ideas</h3>
+									<h3>Graphic Design</h3>
 									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
 								</div>
 							</div>
 						</div>
 						<div class="col-md-4 text-center animate-box">
 							<div class="services color-2">
+								<span class="icon">
+									<i class="icon-wordpress"></i>
+								</span>
+								<div class="desc">
+									<h3>WordPress</h3>
+									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 text-center animate-box">
+							<div class="services color-5">
 								<span class="icon">
 									<i class="icon-data"></i>
 								</span>
@@ -238,28 +246,8 @@ Copyright <script>document.write(new Date().getFullYear());</script> All rights 
 								</div>
 							</div>
 						</div>
-						<div class="col-md-4 text-center animate-box">
-							<div class="services color-5">
-								<span class="icon">
-									<i class="icon-data"></i>
-								</span>
-								<div class="desc">
-									<h3>Software</h3>
-									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-4 text-center animate-box">
-							<div class="services color-6">
-								<span class="icon">
-									<i class="icon-phone3"></i>
-								</span>
-								<div class="desc">
-									<h3>Application</h3>
-									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
-								</div>
-							</div>
-						</div>
+						
+						
 					</div>
 				</div>
 			</section>
@@ -275,15 +263,15 @@ Copyright <script>document.write(new Date().getFullYear());</script> All rights 
 							<span class="colorlib-counter-label">Cups of coffee</span>
 						</div>
 						<div class="col-md-3 text-center animate-box">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="356" data-speed="5000" data-refresh-interval="50"></span>
+							<span class="colorlib-counter js-counter" data-from="0" data-to="20" data-speed="5000" data-refresh-interval="50"></span>
 							<span class="colorlib-counter-label">Projects</span>
 						</div>
 						<div class="col-md-3 text-center animate-box">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="30" data-speed="5000" data-refresh-interval="50"></span>
+							<span class="colorlib-counter js-counter" data-from="0" data-to="6" data-speed="5000" data-refresh-interval="50"></span>
 							<span class="colorlib-counter-label">Clients</span>
 						</div>
 						<div class="col-md-3 text-center animate-box">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="10" data-speed="5000" data-refresh-interval="50"></span>
+							<span class="colorlib-counter js-counter" data-from="0" data-to="2" data-speed="5000" data-refresh-interval="50"></span>
 							<span class="colorlib-counter-label">Partners</span>
 						</div>
 					</div>
@@ -304,33 +292,33 @@ Copyright <script>document.write(new Date().getFullYear());</script> All rights 
 						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="progress-wrap">
-								<h3>Photoshop</h3>
+								<h3>CSS</h3>
 								<div class="progress">
 								 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="75"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:75%">
-								    <span>75%</span>
+								  	aria-valuemin="0" aria-valuemax="100" style="width:45%">
+								    <span>45%</span>
 								  	</div>
 								</div>
 							</div>
 						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="progress-wrap">
-								<h3>jQuery</h3>
+								<h3>HTML2</h3>
 								<div class="progress">
 								 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="60"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:60%">
-								    <span>60%</span>
+								  	aria-valuemin="0" aria-valuemax="100" style="width:75%">
+								    <span>75%</span>
 								  	</div>
 								</div>
 							</div>
 						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="progress-wrap">
-								<h3>HTML5</h3>
+								<h3>Html</h3>
 								<div class="progress">
 								 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="85"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:85%">
-								    <span>85%</span>
+								  	aria-valuemin="0" aria-valuemax="100" style="width:55%">
+								    <span>55%</span>
 								  	</div>
 								</div>
 							</div>
@@ -348,7 +336,7 @@ Copyright <script>document.write(new Date().getFullYear());</script> All rights 
 						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="progress-wrap">
-								<h3>WordPress</h3>
+								<h3>PHP</h3>
 								<div class="progress">
 								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="70"
 								  	aria-valuemin="0" aria-valuemax="100" style="width:70%">
