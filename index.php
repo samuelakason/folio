@@ -57,7 +57,7 @@
 		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
 		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
 			<div class="text-center">
-				<div class="author-img" style="background-image: url(images/about.jpg);"></div>
+				<div class="author-img" style="background-image: url(images/about1.jpg);"></div>
 				<h1 id="colorlib-logo"><a href="index.php">Samuel Akason</a></h1>
 				<span class="position"><a href="">Web </a>Developer</span>
 			</div>
@@ -82,7 +82,7 @@
 			<section id="colorlib-hero" class="js-fullheight" data-section="home">
 				<div class="flexslider js-fullheight">
 					<ul class="slides">
-				   	<li style="background-image: url(images/img_bg_1.jpg);">
+				   	<li style="background-image: url(images/39467143.png);">
 				   		<div class="overlay"></div>
 				   		<div class="container-fluid">
 				   			<div class="row">
@@ -125,8 +125,8 @@
 									<div class="about-desc">
 										<span class="heading-meta">About Me</span>
 										<h2 class="colorlib-heading">Who Am I?</h2>
-										<p><strong>Hi I'm Samuel Akason</strong> a web developer with a passion for making web applications come to life one line of code at a time.</p>
-										<p>.</p>
+										<p><strong>Hi I'm Samuel Akason. </strong>Web developer with a passion for making web applications come to life one line of code at a time.</p>
+										<p>PHP Web Developer (LAMP Stack) | Tech Blogger | Self-Sufficient</p>
 									</div>
 								</div>
 							</div>
@@ -582,18 +582,21 @@
 					</div>
 					<div class="row">
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-							<div class="project" style="background-image: url(images/img-1.jpg);">
+							<div class="project" style="background-image: url(images/smssch.png);">
 								<div class="desc">
 									<div class="con">
 										<h3><a href="work.html">Work 01</a></h3>
 										<span>Website</span>
 										<p class="icon">
 											<span id="mBtn" data-toggle="modal" data-target="#exampleModal"><a href="#"><i class=""></i>Project Snippet</a></span>
+											<span id="mBtn" data-toggle="modal" data-target="#exampleModal"><a href="https://smsschedulerapp.herokuapp.com/" target="_blank"><i class=""></i>Project Demo</a></span>
 										</p>
 									</div>
 								</div>
 							</div>
 						</div>
+
+
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="project" style="background-image: url(images/img-2.jpg);">
 								<div class="desc">
@@ -607,6 +610,9 @@
 								</div>
 							</div>
 						</div>
+
+						
+
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
 							<div class="project" style="background-image: url(images/img-3.jpg);">
 								<div class="desc">
@@ -679,30 +685,30 @@
 					<div class="row">
 						<div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="blog-entry">
-								<a href="blog.html" class="blog-img"><img src="images/blog-1.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
+								<a href="blog.php" class="blog-img" target="_blank"><img src="images/blog-1.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
 								<div class="desc">
 									<span><small>April 14, 2018 </small> | <small> Web Design </small> | <small> <i class="icon-bubble3"></i> 4</small></span>
-									<h3><a href="blog.html">Renovating National Gallery</a></h3>
+									<h3><a href="blog.php" target="_blank">Renovating National Gallery</a></h3>
 									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 								</div>
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="blog-entry">
-								<a href="blog.html" class="blog-img"><img src="images/blog-2.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
+								<a href="blog.php" class="blog-img" target="_blank"><img src="images/blog-2.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
 								<div class="desc">
 									<span><small>April 14, 2018 </small> | <small> Web Design </small> | <small> <i class="icon-bubble3"></i> 4</small></span>
-									<h3><a href="blog.html">Wordpress for a Beginner</a></h3>
+									<h3><a href="blog.php" target="_blank">Wordpress for a Beginner</a></h3>
 									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 								</div>
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="blog-entry">
-								<a href="blog.html" class="blog-img"><img src="images/blog-3.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
+								<a href="blog.php" class="blog-img" target="_blank"><img src="images/blog-3.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
 								<div class="desc">
 									<span><small>April 14, 2018 </small> | <small> Inspiration </small> | <small> <i class="icon-bubble3"></i> 4</small></span>
-									<h3><a href="blog.html">Make website from scratch</a></h3>
+									<h3><a href="blog.php" target="_blank">Make website from scratch</a></h3>
 									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 								</div>
 							</div>
@@ -710,7 +716,7 @@
 					</div>
 					<div class="row">
 						<div class="col-md-12 animate-box">
-							<p><a href="#" class="btn btn-primary btn-lg btn-load-more">Load more <i class="icon-reload"></i></a></p>
+							<p><a href="blog.php" class="btn btn-primary btn-lg btn-load-more" target="_blank">Read more <i class="icon-reload"></i></a></p>
 						</div>
 					</div>
 				</div>
@@ -732,7 +738,7 @@
 									<i class="icon-globe-outline"></i>
 								</div>
 								<div class="colorlib-text">
-									<p><a href="#">info@domain.com</a></p>
+									<p><a href="mailto: hi@samuelakason.com">hi@samuelakason.com</a></p>
 								</div>
 							</div>
 
