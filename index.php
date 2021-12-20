@@ -125,7 +125,7 @@
 									<div class="about-desc">
 										<span class="heading-meta">About Me</span>
 										<h2 class="colorlib-heading">Who Am I?</h2>
-										<p><strong>Hello, I am Samuel Akason, </strong>A Web developer with a passion for making web applications come to life one line of code at a time.</p>
+										<p><strong>Hello, I am Samuel Akason. </strong>A Web developer with a passion for making web applications come to life one line of code at a time.</p>
 										<p>PHP Web Developer (LAMP Stack) | Tech Blogger | Self-Sufficient</p>
 									</div>
 								</div>
