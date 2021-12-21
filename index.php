@@ -82,7 +82,7 @@
 			<section id="colorlib-hero" class="js-fullheight" data-section="home">
 				<div class="flexslider js-fullheight">
 					<ul class="slides">
-				   	<li style="background-image: url(images/p2.png);">
+				   	<li style="background-image: url(images/new/p2.png);">
 				   		<div class="overlay"></div>
 				   		<div class="container-fluid">
 				   			<div class="row">
@@ -90,14 +90,14 @@
 					   				<div class="slider-text-inner js-fullheight">
 					   					<div class="desc">
 						   					<h1>Hi! <br>I'm Samuel</h1>
-						   					<p><a class="btn btn-primary btn-learn" href="/resume/samuel_akason.pdf">Download CV <i class="icon-download4"></i></a></p>
+						   					<p><a class="btn btn-primary btn-learn" href="resume/samuelakason.pdf">Download CV <i class="icon-download4"></i></a></p>
 											</div>
 					   				</div>
 					   			</div>
 					   		</div>
 				   		</div>
 				   	</li>
-				   	<li style="background-image: url(images/p9.png);">
+				   	<li style="background-image: url(images/new/p9.png);">
 				   		<div class="overlay"></div>
 				   		<div class="container-fluid">
 				   			<div class="row">
@@ -125,7 +125,7 @@
 									<div class="about-desc">
 										<span class="heading-meta">About Me</span>
 										<h2 class="colorlib-heading">Who Am I?</h2>
-										<p><strong>Hello, I am Samuel Akason. </strong>A Web developer with a passion for making web applications come to life one line of code at a time.</p>
+										<p><strong>Hi I'm Samuel Akason. </strong>Web developer with a passion for making web applications come to life one line of code at a time.</p>
 										<p>PHP Web Developer (LAMP Stack) | Tech Blogger | Self-Sufficient</p>
 									</div>
 								</div>
