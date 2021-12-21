@@ -90,7 +90,7 @@
 					   				<div class="slider-text-inner js-fullheight">
 					   					<div class="desc">
 						   					<h1>Hi! <br>I'm Samuel</h1>
-						   					<p><a class="btn btn-primary btn-learn">Download CV <i class="icon-download4"></i></a></p>
+						   					<p><a class="btn btn-primary btn-learn" href="/resume/samuel_akason.pdf">Download CV <i class="icon-download4"></i></a></p>
 											</div>
 					   				</div>
 					   			</div>
