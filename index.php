@@ -128,7 +128,7 @@
 										<p><strong>Hi I'm Samuel Akason, </strong>A Web Developer From Abuja And I am Passionate About Everything Tech As Well As Making Web Applications Come to Life One Line of Code at a Time.</p>
 										<p>I Am Focused on PHP Web Projects as Well as Flutter Projects for Mobile Apps.</p>
 										<p>When I Am Not Programming, I Am Likely Seeing a Really Good Animated Movie or Playing a Mobile Game</p>
-										<p>PHP Web Developer (LAMP Stack) | Graphic Designer | Tech Blogger | Lifelong Learner </p>
+										<p>PHP Web Developer | Graphic Designer | Tech Blogger | Lifelong Learner </p>
 									</div>
 								</div>
 							</div>
