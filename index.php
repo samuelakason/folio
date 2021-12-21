@@ -812,7 +812,6 @@
 	<!-- Counters -->
 	<script src="js/jquery.countTo.js"></script>
 	
-	
 	<!-- MAIN JS -->
 	<script src="js/main.js"></script>
 
