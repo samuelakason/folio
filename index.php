@@ -125,8 +125,10 @@
 									<div class="about-desc">
 										<span class="heading-meta">About Me</span>
 										<h2 class="colorlib-heading">Who Am I?</h2>
-										<p><strong>Hi I'm Samuel Akason, </strong>A Continous Learner With a Passion for Everything Tech and Making Web Applications Come to Life One Line of Code at a Time.</p>
-										<p>PHP Web Developer (LAMP Stack) | Graphic Designer | Tech Blogger | Self-Sufficient </p>
+										<p><strong>Hi I'm Samuel Akason, </strong>A Web Developer With a Passion for Everything Tech and Making Web Applications Come to Life One Line of Code at a Time.</p>
+										<p>I Am Focused on PHP Web Projects as Well as Flutter Projects for Mobile Apps.</p>
+										<p>When I Am Not Programming, I Am Likely Seeing a Really Good Animated Movie or Playing a Mobile Game</p>
+										<p>PHP Web Developer (LAMP Stack) | Graphic Designer | Tech Blogger | Lifelong Learner </p>
 									</div>
 								</div>
 							</div>
@@ -217,7 +219,7 @@
 									<i class="icon-data"></i>
 								</span>
 								<div class="desc">
-									<h3>Software</h3>
+									<h3>SEO</h3>
 									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
 								</div>
 							</div>
@@ -228,7 +230,7 @@
 									<i class="icon-phone3"></i>
 								</span>
 								<div class="desc">
-									<h3>Application</h3>
+									<h3>Mobile App</h3>
 									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
 								</div>
 							</div>
@@ -239,7 +241,7 @@
 									<i class="icon-layers2"></i>
 								</span>
 								<div class="desc">
-									<h3>Graphic Design</h3>
+									<h3>Techie</h3>
 									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
 								</div>
 							</div>
@@ -285,26 +287,26 @@
 					</div>
 					<div class="row">
 						<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
-							<p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
+							<!-- <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.</p> -->
 						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="progress-wrap">
 								<h3>HTML/CSS</h3>
 								<div class="progress">
 								 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="45"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:45%">
-								    <span>45%</span>
+								  	aria-valuemin="0" aria-valuemax="100" style="width:40%">
+								    <span>40%</span>
 								  	</div>
 								</div>
 							</div>
 						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="progress-wrap">
-								<h3>Analytical skills</h3>
+								<h3>Interpersonal skills</h3>
 								<div class="progress">
 								 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="60"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:75%">
-								    <span>75%</span>
+								  	aria-valuemin="0" aria-valuemax="100" style="width:50%">
+								    <span>50%</span>
 								  	</div>
 								</div>
 							</div>
@@ -314,59 +316,64 @@
 								<h3>PHP</h3>
 								<div class="progress">
 								 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="85"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:65%">
-								    <span>65%</span>
+								  	aria-valuemin="0" aria-valuemax="100" style="width:50%">
+								    <span>50%</span>
 								  	</div>
 								</div>
 							</div>
 						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="progress-wrap">
-								<h3>Interpersonal skills</h3>
+								<h3>Analytical skills</h3>
 								<div class="progress">
 								 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="90"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:90%">
-								    <span>90%</span>
+								  	aria-valuemin="0" aria-valuemax="100" style="width:60%">
+								    <span>60%</span>
 								  	</div>
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-							<div class="progress-wrap">
-								<h3>Graphic Design Using Canva</h3>
-								<div class="progress">
-								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="90"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:90%">
-								    <span>90%</span>
-								  	</div>
-								</div>
-							</div>
-						</div>
+
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="progress-wrap">
-								<h3>SEO1</h3>
-								<div class="progress">
-								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="80"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
-								    <span>80%</span>
-								  	</div>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-							<div class="progress-wrap">
-								<h3>SEO2</h3>
+								<h3>WordPress</h3>
 								<div class="progress">
 								 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="80"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
-								    <span>80%</span>
+								  	aria-valuemin="0" aria-valuemax="100" style="width:60%">
+								    <span>60%</span>
 								  	</div>
 								</div>
 							</div>
 						</div>
+
+						
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="progress-wrap">
-								<h3>SEO3</h3>
+								<h3>Time Management</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="80"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:70%">
+								    <span>70%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>Graphic Design</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="90"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:70%">
+								    <span>70%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>Lifelong Learning</h3>
 								<div class="progress">
 								 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="80"
 								  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
