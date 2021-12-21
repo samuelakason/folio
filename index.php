@@ -105,7 +105,7 @@
 					   				<div class="slider-text-inner">
 					   					<div class="desc">
 						   					<h1>I'm a <br> Web Developer</h1>
-												<p><a class="btn btn-primary btn-learn">View Portfolio <i class="icon-briefcase3"></i></a></p>
+												<p><a class="btn btn-primary btn-learn" href="#mywork">View Portfolio <i class="icon-briefcase3"></i></a></p>
 											</div>
 					   				</div>
 					   			</div>
@@ -571,7 +571,7 @@
 				<div class="colorlib-narrow-content">
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-							<span class="heading-meta">My Work</span>
+							<span class="heading-meta" id="mywork">My Work</span>
 							<h2 class="colorlib-heading animate-box">Recent Work</h2>
 						</div>
 					</div>
@@ -811,6 +811,7 @@
 	<script src="js/owl.carousel.min.js"></script>
 	<!-- Counters -->
 	<script src="js/jquery.countTo.js"></script>
+	
 	
 	<!-- MAIN JS -->
 	<script src="js/main.js"></script>
