@@ -59,7 +59,7 @@
 			<div class="text-center">
 				<div class="author-img" style="background-image: url(images/about1.jpg);"></div>
 				<h1 id="colorlib-logo"><a href="index.php">Samuel Akason</a></h1>
-				<span class="position"><a href="">Web </a>Developer</span>
+				<span class="position"><a >Web </a>Developer</span>
 			</div>
 			<nav id="colorlib-main-menu" role="navigation" class="navbar">
 				<div id="navbar" class="collapse">
@@ -125,8 +125,8 @@
 									<div class="about-desc">
 										<span class="heading-meta">About Me</span>
 										<h2 class="colorlib-heading">Who Am I?</h2>
-										<p><strong>Hi I'm Samuel Akason. </strong>Web developer with a passion for making web applications come to life one line of code at a time.</p>
-										<p>PHP Web Developer (LAMP Stack) | Tech Blogger | Self-Sufficient</p>
+										<p><strong>Hi I'm Samuel Akason, </strong>A Continous Learner With a Passion for Everything Tech and Making Web Applications Come to Life One Line of Code at a Time.</p>
+										<p>PHP Web Developer (LAMP Stack) | Graphic Designer | Tech Blogger | Self-Sufficient </p>
 									</div>
 								</div>
 							</div>
@@ -152,7 +152,7 @@
 								<div class="col-md-3 animate-box" data-animate-effect="fadeInTop">
 									<div class="services color-3">
 										<span class="icon2"><i class="icon-data"></i></span>
-										<h3>Software</h3>
+										<h3>SEO</h3>
 									</div>
 								</div>
 							</div>
@@ -160,7 +160,7 @@
 								<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
 									<div class="hire">
 										<h2>I am happy to let you know<br>that 20+ projects have been done sucessfully!</h2>
-										<a href="#" class="btn-hire">Hire me</a>
+										<a href="#colorlib-contact" class="btn-hire">Say Hi To Me</a>
 									</div>
 								</div>
 							</div>
@@ -168,8 +168,6 @@
 					</div>
 				</div>
 			</section>
-
-
 			
 			<section class="colorlib-services" data-section="services">
 				<div class="colorlib-narrow-content">
@@ -722,12 +720,12 @@
 				</div>
 			</section>
 
-			<section class="colorlib-contact" data-section="contact">
+			<section class="colorlib-contact" data-section="contact" id="colorlib-contact">
 				<div class="colorlib-narrow-content">
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-							<span class="heading-meta">Get in Touch With Me</span>
-							<h2 class="colorlib-heading">Send Me An Email</h2>
+							<span class="heading-meta">Get in Touch With Me</span> <br>
+							<!-- <h2 class="colorlib-heading">Say Hi To Me</h2> -->
 						</div>
 					</div>
 
