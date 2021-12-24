@@ -62,7 +62,7 @@
 		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
 		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
 			<div class="text-center">
-				<div class="author-img" style="background-image: url(images/bg5.jpg);"></div>
+				<div class="author-img" style="background-image: url(images/bg.jpg);"></div>
 				<h1 id="colorlib-logo"><a href="index.php">Samuel Akason</a></h1>
 				<span class="position"><a >Web </a>Developer</span>
 			</div>
