@@ -181,7 +181,7 @@
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">What I do?</span>
-							<h2 class="colorlib-heading">Here are some of my expertise</h2>
+							<h2 class="colorlib-heading">These are some of my expertise</h2>
 						</div>
 					</div>
 					<div class="row row-pt-md">
@@ -210,11 +210,11 @@
 								<div class="desc">
 									<h3>Graphic Design</h3>
 									<small style = "text-align:left">
-										<h6>• Designing, developing websites.</h6>
-										<h6>• Designing, developing web Apps.</h6>
-										<h6>• Managing website functionalities.</h6>
-										<h6>• Integrating security measures.</h6>
-										<h6>• Implement application features.</h6>
+										<h6>• Develop graphics & visual Texts.</h6>
+										<h6>• Brand Identity & Logo Design</h6>
+										<h6>• Social Media Campaign Designs.</h6>
+										<h6>• Web and Mobile Design.</h6>
+										<h6>• Creation of Imagery concepts</h6>
 										</small>
 								</div>
 							</div>
