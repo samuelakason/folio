@@ -26,6 +26,11 @@
 
 	<link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
+	<link href="http://fonts.cdnfonts.com/css/mairy" rel="stylesheet">
+	<link href="http://fonts.cdnfonts.com/css/atlane" rel="stylesheet">
+	<link href="http://fonts.cdnfonts.com/css/walking-around" rel="stylesheet">
+	<link href="http://fonts.cdnfonts.com/css/desuka-slab-demo" rel="stylesheet">
+                
 	
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
@@ -82,7 +87,7 @@
 			<section id="colorlib-hero" class="js-fullheight" data-section="home">
 				<div class="flexslider js-fullheight">
 					<ul class="slides">
-				   	<li style="background-image: url(images/p2.png);">
+				   	<li style="background-image: url(images/new/p2.png);">
 				   		<div class="overlay"></div>
 				   		<div class="container-fluid">
 				   			<div class="row">
@@ -97,7 +102,7 @@
 					   		</div>
 				   		</div>
 				   	</li>
-				   	<li style="background-image: url(images/p9.png);">
+				   	<li style="background-image: url(images/new/p9.png);">
 				   		<div class="overlay"></div>
 				   		<div class="container-fluid">
 				   			<div class="row">
@@ -128,7 +133,7 @@
 										<p><strong>Hi I'm Samuel Akason, </strong>A Web Developer From Abuja And I am Passionate About Everything Tech As Well As Making Web Applications Come to Life One Line of Code at a Time.</p>
 										<p>I Am Focused on PHP Web Projects as Well as Flutter Projects for Mobile Apps.</p>
 										<p>When I Am Not Programming, I Am Likely Seeing a Really Good Animated Movie or Playing a Mobile Game</p>
-										<p>PHP Web Developer | Graphic Designer | Tech Blogger | Lifelong Learner </p>
+										<p>PHP Web Developer (WAMP Stack) | Graphic Designer | Tech Blogger | Lifelong Learner </p>
 									</div>
 								</div>
 							</div>
@@ -187,7 +192,13 @@
 									</span>
 									<div class="desc">
 										<h3>Web Development</h3>
-										<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+										<small style = "text-align:left">
+										<h6>• Designing, developing websites.</h6>
+										<h6>• Designing, developing web Apps.</h6>
+										<h6>• Managing website functionalities.</h6>
+										<h6>• Integrating security measures.</h6>
+										<h6>• Implement application features.</h6>
+										</small>
 									</div>
 								</div>
 							</div>
@@ -198,7 +209,13 @@
 								</span>
 								<div class="desc">
 									<h3>Graphic Design</h3>
-									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+									<small style = "text-align:left">
+										<h6>• Designing, developing websites.</h6>
+										<h6>• Designing, developing web Apps.</h6>
+										<h6>• Managing website functionalities.</h6>
+										<h6>• Integrating security measures.</h6>
+										<h6>• Implement application features.</h6>
+										</small>
 								</div>
 							</div>
 						</div>
@@ -209,7 +226,13 @@
 								</span>
 								<div class="desc">
 									<h3>WordPress</h3>
-									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+									<small style = "text-align:left">
+										<h6>• Designing, developing websites.</h6>
+										<h6>• Designing, developing web Apps.</h6>
+										<h6>• Managing website functionalities.</h6>
+										<h6>• Integrating security measures.</h6>
+										<h6>• Implement application features.</h6>
+										</small>
 								</div>
 							</div>
 						</div>
@@ -220,7 +243,13 @@
 								</span>
 								<div class="desc">
 									<h3>SEO</h3>
-									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+									<small style = "text-align:left">
+										<h6>• Designing, developing websites.</h6>
+										<h6>• Designing, developing web Apps.</h6>
+										<h6>• Managing website functionalities.</h6>
+										<h6>• Integrating security measures.</h6>
+										<h6>• Implement application features.</h6>
+										</small>
 								</div>
 							</div>
 						</div>
@@ -231,7 +260,13 @@
 								</span>
 								<div class="desc">
 									<h3>Mobile App</h3>
-									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+									<small style = "text-align:left">
+										<h6>• Designing, developing websites.</h6>
+										<h6>• Designing, developing web Apps.</h6>
+										<h6>• Managing website functionalities.</h6>
+										<h6>• Integrating security measures.</h6>
+										<h6>• Implement application features.</h6>
+										</small>
 								</div>
 							</div>
 						</div>
@@ -241,13 +276,18 @@
 									<i class="icon-layers2"></i>
 								</span>
 								<div class="desc">
-									<h3>Techie</h3>
-									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+									<h3>IT Technician</h3>
+									<small style="text-align:left;">
+										<h6>• Repairs.</h6>
+										<h6>• Customer Technical Support.</h6>
+										<h6>• Software Support.</h6>
+										<h6>• Data Recovery.</h6>
+										<h6>• Implement application features.</h6>
+										<!-- <p>Test Line</p> -->
+										</small>
 								</div>
 							</div>
 						</div>
-						
-						
 					</div>
 				</div>
 			</section>
