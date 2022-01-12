@@ -129,7 +129,6 @@
 								<div class="col-md-12">
 									<div class="about-desc">
 										<span class="heading-meta">About Me</span>
-										<h2 class="colorlib-heading">Who Am I?</h2>
 										<p><strong>Hi I'm Samuel Akason, </strong>A Web Developer From Abuja And I am Passionate About Everything Tech As Well As Making Web Applications Come to Life One Line of Code at a Time.</p>
 										<p>I Am Focused on PHP Web Projects as Well as Flutter Projects for Mobile Apps.</p>
 										<p>When I Am Not Programming, I Am Likely Seeing a Really Good Animated Movie or Playing a Mobile Video Game</p>
