@@ -165,7 +165,7 @@
 							<div class="row">
 								<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
 									<div class="hire">
-										<h2>I am happy to let you know<br>that 20+ projects have been done sucessfully!</h2>
+										<h2>I am happy to let you know<br>that 20+ projects have been completed sucessfully!</h2>
 										<a href="#colorlib-contact" class="btn-hire">Say Hi To Me</a>
 									</div>
 								</div>
