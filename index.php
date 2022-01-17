@@ -212,7 +212,7 @@
 										<h6>• Develop graphics & visual Texts.</h6>
 										<h6>• Brand Identity & Logo Design</h6>
 										<h6>• Social Media Campaign Designs.</h6>
-										<h6>• Web and Mobile Design.</h6>
+										<h6>• Website and Mobile App Mockup.</h6>
 										<h6>• Creation of Imagery concepts</h6>
 										</small>
 								</div>
@@ -226,11 +226,11 @@
 								<div class="desc">
 									<h3>WordPress</h3>
 									<small style = "text-align:left">
-										<h6>• Designing, developing websites.</h6>
-										<h6>• Designing, developing web Apps.</h6>
-										<h6>• Managing website functionalities.</h6>
-										<h6>• Integrating security measures.</h6>
-										<h6>• Implement application features.</h6>
+										<h6>• WordPress Installation & Setup</h6>
+										<h6>• Wordpress Website Development.</h6>
+										<h6>• Design front-end & back-end.</h6>
+										<h6>• Populate Website Pages.</h6>
+										<h6>• Conduct website training for client.</h6>
 										</small>
 								</div>
 							</div>
@@ -243,16 +243,35 @@
 								<div class="desc">
 									<h3>SEO</h3>
 									<small style = "text-align:left">
-										<h6>• Designing, developing websites.</h6>
-										<h6>• Designing, developing web Apps.</h6>
-										<h6>• Managing website functionalities.</h6>
-										<h6>• Integrating security measures.</h6>
-										<h6>• Implement application features.</h6>
+										<h6>• Improve Ranking of WebPages in the SERPs.</h6>
+										<h6>• Attracting Targeted, Loyal traffic.</h6>
+										<h6>• Use Of Social Media to Distribute Content.</h6>
+										<h6>• Running pay-per-click campaigns.</h6>
+										<h6>• Audit, manage and optimize Web Activities.</h6>
 										</small>
 								</div>
 							</div>
 						</div>
 						<div class="col-md-4 text-center animate-box">
+							<div class="services color-4">
+								<span class="icon">
+									<i class="icon-layers2"></i>
+								</span>
+								<div class="desc">
+									<h3>IT Technician</h3>
+									<small style="text-align:left;">
+										<h6>• Hardware/Software Repairs.</h6>
+										<h6>• Customer Technical Support.</h6>
+										<h6>• Software Support.</h6>
+										<h6>• Data Recovery.</h6>
+										<h6>• Implementing application features.</h6>
+										<!-- <p>Test Line</p> -->
+										</small>
+								</div>
+							</div>
+						</div>
+
+						<!-- <div class="col-md-4 text-center animate-box">
 							<div class="services color-3">
 								<span class="icon">
 									<i class="icon-phone3"></i>
@@ -268,25 +287,8 @@
 										</small>
 								</div>
 							</div>
-						</div>
-						<div class="col-md-4 text-center animate-box">
-							<div class="services color-4">
-								<span class="icon">
-									<i class="icon-layers2"></i>
-								</span>
-								<div class="desc">
-									<h3>IT Technician</h3>
-									<small style="text-align:left;">
-										<h6>• Repairs.</h6>
-										<h6>• Customer Technical Support.</h6>
-										<h6>• Software Support.</h6>
-										<h6>• Data Recovery.</h6>
-										<h6>• Implement application features.</h6>
-										<!-- <p>Test Line</p> -->
-										</small>
-								</div>
-							</div>
-						</div>
+						</div> -->
+
 					</div>
 				</div>
 			</section>
@@ -448,12 +450,42 @@
 									    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
 									         <div class="panel-body">
 									            <div class="row">
-										      		<div class="col-md-6">
-										      			<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+
+									            	<p>While Web Development And Programming In General Can Get Pretty Boring Over Time Especially For Newbies, Harvard CS50's Introduction to Computer Science Teaches Programming in a very unique way.</p> 
+
+									            	<p>Starting From Very Basic programming concepts and languages like stratch and moving surely but gradually to other languages like C, Python and Javascript, I learnt and understood the basics of Computer Science and the art of programming. This course helped me grasp a solid fundamental of Computer Science. I didnt just learn to write codes but how to really think like a programmer as well as develop problem solving skills. </p>
+
+									            	<p>During this course, i was able to </p>
+
+									            	<p>Harvard CS50's Introduction to Computer Science had a duration of 11 weeks and the weeks covered the following</p>
+
+													<ul>
+														<li>Week 0 Scratch</li>
+														<li>Week 1 C </li>
+														<li>Week 2 Arrays</li>
+														<li>Week 3 Algorithms</li>
+														<li>Week 4 Memory</li>
+														<li>Week 5 Data Structures</li>
+														<li>Week 6 Python</li>														
+														<li>Week 7 SQL</li>
+														<li>Week 8 HTML, CSS, JavaScript</li>
+														<li>Week 9 Flask</li>
+														<li>Week 10 Ethics/Emoji</li>
+
+
+										      		<!-- <div class="col-md-6">
+										      			<p>Harvard CS50's Introduction to Computer Science helped me to grasp a solid fundamental of Computer Science.</p>
 										      		</div>
 										      		<div class="col-md-6">
-										      			<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+										      			<p>Web Programming And Programming General Can Get Pretty Boring Over Time Especially For Those New To Programming But This Course Makes It </p>
 										      		</div>
+
+										      		<p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+													<ul>
+														<li>Separated they live in Bookmarksgrove right</li>
+														<li>Separated they live in Bookmarksgrove right</li>
+													</ul> -->
+
 										      	</div>
 									         </div>
 									    </div>
