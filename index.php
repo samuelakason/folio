@@ -62,7 +62,7 @@
 		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
 		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
 			<div class="text-center">
-				<div class="author-img" style="background-image: url(https://icon-library.com/images/icon-developer/icon-developer-5.jpg);"></div>
+				<div class="author-img" style="background-image: url(images/devicon.jpg);"></div>
 				<h1 id="colorlib-logo"><a href="index.php">Samuel Akason</a></h1>
 				<span class="position"><a >Web </a>Developer</span>
 			</div>
@@ -443,7 +443,7 @@
 
 									    <div class="panel-heading" role="tab" id="headingOne">
 									        <h4 class="panel-title">
-									            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Harvard CS50's Introduction to Computer Science
+									            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">Harvard CS50's Introduction to Computer Science
 									            </a>
 									        </h4>
 									    </div>
@@ -546,7 +546,7 @@
 									    </div>
 									    <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
 									        <div class="panel-body">
-									            	
+									            <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>	
 									        </div>
 									    </div>
 									</div>
