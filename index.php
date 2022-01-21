@@ -62,7 +62,7 @@
 		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
 		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
 			<div class="text-center">
-				<div class="author-img" style="background-image: url(images/bg.jpg);"></div>
+				<div class="author-img" style="background-image: url(https://icon-library.com/images/icon-developer/icon-developer-5.jpg);"></div>
 				<h1 id="colorlib-logo"><a href="index.php">Samuel Akason</a></h1>
 				<span class="position"><a >Web </a>Developer</span>
 			</div>
@@ -128,7 +128,7 @@
 							<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
 								<div class="col-md-12">
 									<div class="about-desc">
-										<span class="heading-meta">About Me</span>
+										<span class="heading-meta"><h5>About Me</h5></span>
 										<p><strong>Hi I'm Samuel Akason, </strong>A Web Developer From Abuja And I am Passionate About Everything Tech As Well As Making Web Applications Come to Life One Line of Code at a Time.</p>
 										<p>I Am Focused on PHP Web Projects as Well as Flutter Projects for Mobile Apps.</p>
 										<p>When I Am Not Programming, I Am Likely Seeing a Really Good Animated Movie or Playing a Mobile Video Game</p>
@@ -500,11 +500,11 @@
 									    </div>
 									    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 									        <div class="panel-body">
-									            <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									            <!-- <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 													<ul>
 														<li>Separated they live in Bookmarksgrove right</li>
 														<li>Separated they live in Bookmarksgrove right</li>
-													</ul>
+													</ul> -->
 									        </div>
 									    </div>
 									</div>
@@ -576,7 +576,7 @@
 					               </div>
 
 					               <div class="timeline-label">
-					                  <h2><a href="#">Full Stack Developer</a> <span>2017-2018</span></h2>
+					                  <h2><a href="#">PHP Web Developer</a> <span>2020 – Present</span></h2>
 					                  <p>Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may.</p>
 					               </div>
 					            </div>
@@ -589,8 +589,14 @@
 					                  <i class="icon-pen2"></i>
 					               </div>
 					               <div class="timeline-label">
-					               	<h2><a href="#">Front End Developer at Google Company</a> <span>2017-2018</span></h2>
-					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+					               	<h2><a href="#">Customer Service Representative</a> </h2>
+									   <h2><a href="#">Horlar IT Solutions</a> <span>2019 - Present</span></h2>
+
+									   My Duties Included
+									   	<li>Resolve customer complaints via phone, email, Live Chat, and social media.</li>
+										<li>Greet client warmly and ascertain problem or reason behind the client's call.</li>
+										<li>Reach out to customers and verify account information over the phone.</li>
+										<li>Assist with placement of orders, refunds, upgrades or downgrades of account packages.</li>
 					               </div>
 					            </div>
 					         </article>
@@ -601,8 +607,13 @@
 					                  <i class="icon-pen2"></i>
 					               </div>
 					               <div class="timeline-label">
-					               	<h2><a href="#">System Analyst</a> <span>2017-2018</span></h2>
-					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+								   <h2><a href="#">Accounts Manager</a> </h2>
+									   <h2><a href="#">Horlar IT Solutions</a> <span>2019 - Present</span></h2>
+
+									   My Duties Included
+									   	<li>Direct access to clients - Building Customer Company relationship.</li>
+										<li>Evaluates interface between Customers and Company.</li>
+										<li>Advise customers regarding new and existing products and packages.</li>
 					               </div>
 					            </div>
 					         </article>
@@ -613,8 +624,14 @@
 					                  <i class="icon-pen2"></i>
 					               </div>
 					               <div class="timeline-label">
-					               	<h2><a href="#">Creative Designer</a> <span>2017-2018</span></h2>
-					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+								   <h2><a href="#">Sales Representative</a> </h2>
+									   <h2><a href="#">Horlar IT Solutions</a> <span>2019 - Present</span></h2>
+
+									   My Duties Included
+									   	<li>Sourcing Potential leads.</li>
+										<li>Lead Generation and conversion.</li>
+										<li>Provide customers with detailed information about products.</li>
+										<li>Prepared detailed reports, records and analyses.</li>
 					               </div>
 					            </div>
 					         </article>
@@ -625,8 +642,15 @@
 					                  <i class="icon-pen2"></i>
 					               </div>
 					               <div class="timeline-label">
-					               	<h2><a href="#">UI/UX Designer at Envato</a> <span>2017-2018</span></h2>
-					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+								   <h2><a href="#">Remote Customer Service Representative</a> </h2>
+									   <h2><a href="#">Heysphere</a> <span>July 2018 - Feb 2019</span></h2>
+
+									   My Duties Included
+									   	<li>Providing expert knowledge to advise users via instant messaging.</li>
+										<li>Identify and assess customer’s needs to achieve satisfaction.</li>
+										<li>Follow communication procedures, guidelines and policies.</li>
+										<li>Respond to customer questions.</li>
+										<li>Resolve customer issues and challenges.</li>
 					               </div>
 					            </div>
 					         </article>
