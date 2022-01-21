@@ -685,8 +685,8 @@
 							<div class="project" style="background-image: url(images/smssch.png);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="work.html">Work 01</a></h3>
-										<span>Website</span>
+										<h3><a href="">SMS Scheduler App</a></h3>
+										<span>This Is A Bulk SMS Sender APP That instantly Sends Messages And Can Also Be Used To Send Bulk Sms At A Future Time</span>
 										<p class="icon">
 											<span id="mBtn" data-toggle="modal" data-target="#exampleModal"><a href="#"><i class=""></i>Project Snippet</a></span>
 											<span id="mBtn" data-toggle="modal" data-target="#exampleModal"><a href="https://smsschedulerapp.herokuapp.com/" target="_blank"><i class=""></i>Project Demo</a></span>
