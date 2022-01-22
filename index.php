@@ -455,7 +455,7 @@
 
 									            	<p>Starting From Very Basic programming concepts and languages like stratch and moving surely but gradually to other languages like C, Python and Javascript, I learnt and understood the basics of Computer Science and the art of programming. This course helped me grasp a solid fundamental of Computer Science. I didnt just learn to write codes but how to really think like a programmer as well as develop problem solving skills. </p>
 
-									            	<p>During this course, i was able to </p>
+<!-- 									            	<p>During this course, i was able to </p> -->
 
 									            	<p>Harvard CS50's Introduction to Computer Science had a duration of 11 weeks and the weeks covered the following</p>
 
