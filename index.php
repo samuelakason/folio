@@ -591,8 +591,6 @@
 					               <div class="timeline-label">
 					               	<h2><a href="#">Customer Service Representative</a> </h2>
 									   <h2><a href="#">Horlar IT Solutions</a> <span>2019 - Present</span></h2>
-
-									   My Duties Included
 									   	<li>Resolve customer complaints via phone, email, Live Chat, and social media.</li>
 										<li>Greet client warmly and ascertain problem or reason behind the client's call.</li>
 										<li>Reach out to customers and verify account information over the phone.</li>
@@ -609,8 +607,6 @@
 					               <div class="timeline-label">
 								   <h2><a href="#">Accounts Manager</a> </h2>
 									   <h2><a href="#">Horlar IT Solutions</a> <span>2019 - Present</span></h2>
-
-									   My Duties Included
 									   	<li>Direct access to clients - Building Customer Company relationship.</li>
 										<li>Evaluates interface between Customers and Company.</li>
 										<li>Advise customers regarding new and existing products and packages.</li>
@@ -626,8 +622,6 @@
 					               <div class="timeline-label">
 								   <h2><a href="#">Sales Representative</a> </h2>
 									   <h2><a href="#">Horlar IT Solutions</a> <span>2019 - Present</span></h2>
-
-									   My Duties Included
 									   	<li>Sourcing Potential leads.</li>
 										<li>Lead Generation and conversion.</li>
 										<li>Provide customers with detailed information about products.</li>
@@ -644,8 +638,6 @@
 					               <div class="timeline-label">
 								   <h2><a href="#">Remote Customer Service Representative</a> </h2>
 									   <h2><a href="#">Heysphere</a> <span>July 2018 - Feb 2019</span></h2>
-
-									   My Duties Included
 									   	<li>Providing expert knowledge to advise users via instant messaging.</li>
 										<li>Identify and assess customer’s needs to achieve satisfaction.</li>
 										<li>Follow communication procedures, guidelines and policies.</li>
