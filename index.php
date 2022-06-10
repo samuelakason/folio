@@ -692,8 +692,8 @@
 							<div class="project" style="background-image: url(images/img-2.jpg);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="work.html">Work 02</a></h3>
-										<span>Animation</span>
+										<h3><a href="work.html">NRN</a></h3>
+										<span>E-Commerce</span>
 										<p class="icon">
 										<span id="mBtn" data-toggle="modal" data-target="#exampleModal"><a href="#"><i class=""></i>Project Snippet</a></span>
 										</p>
