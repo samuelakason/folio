@@ -678,7 +678,7 @@
 								<div class="desc">
 									<div class="con">
 										<h3><a href="">SMS Scheduler App</a></h3>
-										<span>This Is A Bulk SMS Sender APP That instantly Sends Messages And Can Also Be Used To Send Bulk Sms At A Future Time</span>
+										<span>This Is A Bulk SMS Sender APP That instantly Sends Messages And Can Also Be Used To Send Bulk Sms At A Future Time. This app consumes an API from smartsmssolutions.com. The API Documentation can be found here https://developer.smartsmssolutions.com/</span>
 										<p class="icon">
 											<span id="mBtn" data-toggle="modal" data-target="#exampleModal"><a href="#"><i class=""></i>Project Snippet</a></span>
 											<span id="mBtn" data-toggle="modal" data-target="#exampleModal"><a href="https://smsschedulerapp.herokuapp.com/" target="_blank"><i class=""></i>Project Demo</a></span>
